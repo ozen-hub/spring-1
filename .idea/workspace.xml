@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b77aa6b-5498-4aa1-8dac-72ca0e41db42" name="Changes" comment="1">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bootcamp/WebMvcConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bootcamp/WebMvcConfig.java" afterDir="false" />
+    <list default="true" id="1b77aa6b-5498-4aa1-8dac-72ca0e41db42" name="Changes" comment="2">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bootcamp/WebAppInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bootcamp/WebAppInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bootcamp/WebMvcConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bootcamp/config/WebMvcConfig.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +145,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669047784004</updated>
-      <workItem from="1669047786081" duration="3205000" />
+      <workItem from="1669047786081" duration="3781000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1669050719505</created>
@@ -153,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669050719505</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2">
+      <created>1669051223324</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669051223324</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,6 +181,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="2" />
+    <option name="LAST_COMMIT_MESSAGE" value="2" />
   </component>
 </project>
